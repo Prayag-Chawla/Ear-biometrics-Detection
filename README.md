@@ -71,6 +71,18 @@ Weighted Voting: Optionally, you can use weighted voting, where the contribution
 
 
 
+
+
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/1d5fad4b-d5d3-464f-b7dd-3c6b1e175fdf)
+
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/59e21609-ecf5-4fe7-9c34-5a2e032fae0f)
+
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/e51882cc-13a2-4ebb-a380-582246b62aa6)
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/336f061c-b0b5-453e-8842-e787b6f199aa)
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/fbe1fc0a-acd9-44bf-99af-059e0b1bbee5)
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/9be1c0e7-c968-4688-a13c-6ea864bfe31e)
+
+
 ## Model used
 The primary model which has been used is KNN and CNN.
 
@@ -121,18 +133,26 @@ Start the server
 ```bash
   npm run start
 ```
-
+## ACCURACY
+The model has an accuracy of 0.8809523809523809
 
 ## Used By
-In the real world, this project is used in biometrics industry extensive;y.
+In the real world, this project is used in the biometrics industry extensivelyy.
 ## Appendix
 
-A very crucial project in the realm of data science and new age biometrics domain using visualization techniques as well as machine learning modelling.
+A very crucial project in the realm of data science and new age biometrics domain using visualization techniques as well as machine learning modeling.
 
 ## Tech Stack
 
-**Client:** Python, Naive byes classifier, gaussian naive byes, suppport vector machine,random forest, decision tree classifier, logistic regression model, EDA analysis, machine learning, sequential model of ML, SHAP explainer model, data visualization libraries of python.
+**Client:** Python, Naive byes classifier, gaussian naive byes, support vector machine, random forest, decision tree classifier, logistic regression model, EDA analysis, machine learning, sequential model of ML, SHAP explainer model, data visualization libraries of python.
 
+
+## OUTPUT
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/1a5f7c58-4763-446e-921c-10c9d5cd4043)
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/d40fccb4-9e00-4a20-8e24-5a9e16598b40)
+
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/f4fa1420-c7e8-4c06-bd5e-89bcf83f2e42)
+![image](https://github.com/Prayag-Chawla/Ear-biometrics-Detection/assets/92213377/3c8c27a7-d8a7-4734-b3ad-8866e755c9d1)
 
 
 ## Feedback
